@@ -9984,6 +9984,7 @@ __metadata:
     eslint-plugin-react-hooks: "npm:^4.6.2"
     identity-obj-proxy: "npm:^3.0.0"
     jsdom: "npm:^24.1.0"
+    phosphor-react: "npm:^1.4.1"
     postcss: "npm:^8.4.38"
     postcss-preset-mantine: "npm:1.17.0"
     postcss-simple-vars: "npm:^7.0.1"
@@ -10921,6 +10922,15 @@ __metadata:
     duplexify: "npm:^3.5.0"
     through2: "npm:^2.0.3"
   checksum: 10c0/3c35d1951b8640036f93b1b5628a90f849e49ca4f2e6aba393ff4978413931d9c491c83f71a92f878d5ea4c670af0bba04dfcfb79b310ead22601db7c1420e36
+  languageName: node
+  linkType: hard
+
+"phosphor-react@npm:^1.4.1":
+  version: 1.4.1
+  resolution: "phosphor-react@npm:1.4.1"
+  peerDependencies:
+    react: ">=16"
+  checksum: 10c0/6441f25e4134d86ade34739bbe89dbfecf6c0fa4fa7dc6ec32b36dc76d43ddf22e3535f780db080b705ad01f1292ae3115b0244cc7659a7b53e604f6cf817425
   languageName: node
   linkType: hard
 
